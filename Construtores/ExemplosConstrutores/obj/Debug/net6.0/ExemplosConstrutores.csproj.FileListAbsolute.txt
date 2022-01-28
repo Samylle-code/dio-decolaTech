@@ -1,0 +1,15 @@
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\bin\Debug\net6.0\ExemplosConstrutores.exe
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\bin\Debug\net6.0\ExemplosConstrutores.deps.json
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\bin\Debug\net6.0\ExemplosConstrutores.runtimeconfig.json
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\bin\Debug\net6.0\ExemplosConstrutores.dll
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\bin\Debug\net6.0\ref\ExemplosConstrutores.dll
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\bin\Debug\net6.0\ExemplosConstrutores.pdb
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\obj\Debug\net6.0\ExemplosConstrutores.csproj.AssemblyReference.cache
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\obj\Debug\net6.0\ExemplosConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\obj\Debug\net6.0\ExemplosConstrutores.AssemblyInfoInputs.cache
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\obj\Debug\net6.0\ExemplosConstrutores.AssemblyInfo.cs
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\obj\Debug\net6.0\ExemplosConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\obj\Debug\net6.0\ExemplosConstrutores.dll
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\obj\Debug\net6.0\ref\ExemplosConstrutores.dll
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\obj\Debug\net6.0\ExemplosConstrutores.pdb
+C:\Users\Samylle\Desktop\Programação\dio-desafio\Construtores\ExemplosConstrutores\obj\Debug\net6.0\ExemplosConstrutores.genruntimeconfig.cache

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using EstudoObjeto;
 using retangulo;
 using Alunos;
@@ -9,15 +10,39 @@ using Correntes;
 using Diretoria;
 using Rede;
 using Interfaces;
+using direct;
 
 namespace Name
 {
   class Name
   {
     static void Main(string[] args){ 
+      
+      var  caminho = "C:/TrabalhoComArquivos";
+      var caminhoPathCombine = Path.Combine(caminho, "Pasta Teste 3", "SubPastaTeste3");
+      var caminhoArquivo = Path.Combine(caminho, "arquivo-texto-stream.txt");
+      var caminhoArquivoTeste = Path.Combine(caminho, "arquivo-texto.txt");
+      var caminhoArquivoTesteCopia = Path.Combine(caminho, "arquivo-teste-bkp.txt");
+      var novoCaminhoArquivo = Path.Combine(caminho, "PastaTeste2", "arquivo-texto-stream.txt");
 
-      ICalculator calc = new Calculator();
-      System.Console.WriteLine(calc.Plus(10,20));
+      var listString = new List<string> {"Linha 1", "Linha 2", "Linha 3"};
+      var listStringC = new List<string> {"Linha 4", "Linha 5", "Linha 6"};
+
+      FileHelper helper = new FileHelper();
+      
+
+      //helper.LerArquivosStream(caminhoArquivo);
+      //helper.CriarArquivoTextoStream(caminhoArquivo, listString);
+      //helper.AdicionarTextoStream(caminhoArquivo, listStringC);
+      // helper.ListarArquivosDiretorios(caminho);
+      //helper.CriarDirectory(caminhoPathCombine);
+      //helper.ApagarDicerctory(caminhoPathCombine, true);
+      //helper.CriarArquivoTexto(caminhoArquivo, "Olá, teste de arquivo txt!");
+      //helper.MoverArquivo(caminhoArquivo, novoCaminhoArquivo,false);
+      //helper.CopiarArquivo(caminhoArquivoTeste, caminhoArquivoTesteCopia, false);
+      
+      // ICalculator calc = new Calculator();
+      // System.Console.WriteLine(calc.Plus(10,20));
 
       // Computador comp = new Computador();
       // System.Console.WriteLine(comp.ToString());
